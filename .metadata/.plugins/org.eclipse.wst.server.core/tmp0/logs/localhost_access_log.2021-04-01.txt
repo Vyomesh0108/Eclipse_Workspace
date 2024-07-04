@@ -1,0 +1,6 @@
+127.0.0.1 - - [01/Apr/2021:16:58:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2021:16:58:52 +0530] "GET /Jstl_EL_Project/readData.jsp HTTP/1.1" 500 2749
+0:0:0:0:0:0:0:1 - - [01/Apr/2021:16:59:05 +0530] "GET /Jstl_EL_Project/readXml.jsp HTTP/1.1" 500 2749
+127.0.0.1 - - [01/Apr/2021:19:13:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Apr/2021:19:13:53 +0530] "GET /Jstl_EL_Project/readData.jsp HTTP/1.1" 500 6764
+0:0:0:0:0:0:0:1 - - [01/Apr/2021:19:14:05 +0530] "GET /Jstl_EL_Project/readXml.jsp HTTP/1.1" 500 6764

@@ -1,0 +1,7 @@
+127.0.0.1 - - [12/Apr/2021:11:46:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:11:46:56 +0530] "GET /JsfAreaOfTriangle/faces/index.jsp HTTP/1.1" 500 2644
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:11:47:56 +0530] "GET /JsfAreaOfTriangle/faces/index.jsp HTTP/1.1" 500 3730
+127.0.0.1 - - [12/Apr/2021:11:52:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:11:52:20 +0530] "GET /JsfAreaOfTriangle/faces/index.jsp HTTP/1.1" 200 2719
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:11:52:36 +0530] "POST /JsfAreaOfTriangle/faces/index.jsp;jsessionid=B308F14B7A264D2ECDA75D9DFADFFED7 HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:11:52:36 +0530] "POST /JsfAreaOfTriangle/faces/index.jsp;jsessionid=B308F14B7A264D2ECDA75D9DFADFFED7 HTTP/1.1" 200 203

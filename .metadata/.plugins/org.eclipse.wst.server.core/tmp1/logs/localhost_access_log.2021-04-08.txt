@@ -1,0 +1,9 @@
+127.0.0.1 - - [08/Apr/2021:16:54:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:16:54:31 +0530] "GET /JsfForMarks/ HTTP/1.1" 500 2461
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:16:58:31 +0530] "GET /JsfForMarks/faces/index.jsp HTTP/1.1" 200 3103
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:16:58:50 +0530] "POST /JsfForMarks/faces/index.jsp;jsessionid=7B73710698A0128B35306AFAA4520F55 HTTP/1.1" 200 485
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:16:59:38 +0530] "GET /JsfForMarks/faces/index.jsp HTTP/1.1" 200 3103
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:16:59:50 +0530] "POST /JsfForMarks/faces/index.jsp;jsessionid=E7254DB61229525A83BDA6F3731A8EEE HTTP/1.1" 200 3189
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:16:59:53 +0530] "POST /JsfForMarks/faces/index.jsp HTTP/1.1" 200 3189
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:16:59:55 +0530] "POST /JsfForMarks/faces/index.jsp HTTP/1.1" 200 3193
+0:0:0:0:0:0:0:1 - - [08/Apr/2021:17:00:01 +0530] "POST /JsfForMarks/faces/index.jsp HTTP/1.1" 200 3189

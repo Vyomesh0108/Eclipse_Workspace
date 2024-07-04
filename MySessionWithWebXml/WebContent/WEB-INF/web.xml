@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+<servlet>
+
+<servlet-name> hello </servlet-name>
+<servlet-class> semster1 </servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+
+<servlet-name> hello </servlet-name>
+<url-pattern> /sem1 </url-pattern>
+
+</servlet-mapping>
+
+
+
+<servlet>
+
+<servlet-name> okies</servlet-name>
+<servlet-class> semster2 </servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+
+<servlet-name> okies </servlet-name>
+<url-pattern> /sem2 </url-pattern>
+
+</servlet-mapping>
+
+
+</web-app>

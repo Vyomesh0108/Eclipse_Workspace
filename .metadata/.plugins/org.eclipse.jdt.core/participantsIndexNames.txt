@@ -1,0 +1,25 @@
+INDEX VERSION 1.131
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2206936578.index
+\FirstJspProject\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\350859935.index
+\JspCookiesSessionProject\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1659938051.index
+\Jstl_El_Project\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2988565326.index
+\JsfReverseString\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2694519364.index
+\JspCookiesSession\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3470842270.index
+\JsfForMarks\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1944693910.index
+\MySessionWithWebXml\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3251298449.index
+\JsfAreaOfTriangle\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2800452910.index
+\JsfProject\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4279345636.index
+\JspReverseStringAndPalidrom\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2014115080.index
+\Jstl_EL_Project\src
+C:\Users\VRUTTI MISTRY\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3216694418.index
+\JspMultiplicationProject\src

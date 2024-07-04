@@ -1,0 +1,9 @@
+127.0.0.1 - - [13/Mar/2021:19:07:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2021:19:07:17 +0530] "GET /MultiPagesProject/adminpage.html HTTP/1.1" 200 375
+0:0:0:0:0:0:0:1 - - [13/Mar/2021:19:07:20 +0530] "GET /MultiPagesProject/myadmin?sub=SHOW+DATA HTTP/1.1" 200 166
+127.0.0.1 - - [13/Mar/2021:19:47:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2021:19:47:08 +0530] "GET /FilterProject/index.html HTTP/1.1" 200 328
+0:0:0:0:0:0:0:1 - - [13/Mar/2021:19:47:43 +0530] "GET /FilterProject/filtlog?tus=CORONA&tpa=VIRUS&sub=LOGIN HTTP/1.1" 200 29
+127.0.0.1 - - [13/Mar/2021:19:53:34 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2021:19:53:35 +0530] "GET /FilterProject/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2021:19:53:41 +0530] "GET /FilterProject/filtlog?tus=hi&tpa=hjjk&sub=LOGIN HTTP/1.1" 200 358

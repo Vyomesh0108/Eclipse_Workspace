@@ -1,0 +1,3 @@
+127.0.0.1 - - [27/Feb/2021:10:44:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:10:44:31 +0530] "GET /SampleServlet/index.html HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:10:44:39 +0530] "GET /SampleServlet/tapori?tus=vrutti&sub=SUBMIT HTTP/1.1" 200 23
